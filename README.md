@@ -1,2 +1,2 @@
-# cert_trial
-Trial hosting a project for certification on GitHub
+# Cert artifacts
+Configure all cert artifacts in the same repo
